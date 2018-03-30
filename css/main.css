@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #cfff13;
+  background: #2effab;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2947,7 +2947,7 @@ body {
   background-position: center;
 }
 body {
-  background: url("/images/MoeChino.png");
+  background: url("/source/images/MoeChino.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
