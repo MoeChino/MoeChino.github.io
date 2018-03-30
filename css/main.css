@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e921da;
+  background: #c8d511;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2942,7 +2942,7 @@ ul.breadcrumb li+li:last-child {
 body {
   background: url("https://i.loli.net/2018/03/30/5abe56eb6a073.jpg");
   background-attachment: fixed;
-  -webkit-background-size: 1600px 900px;
+  -webkit-background-size: 1920px 1080px;
 }
 .main-inner {
   margin-top: 60px;
