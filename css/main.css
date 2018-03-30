@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #dbcbe3;
+  background: #7f3896;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2938,4 +2938,11 @@ ul.breadcrumb li+li:last-child {
   .post-body {
     text-align: justify;
   }
+}
+body {
+  background: url("https://i.loli.net/2018/03/30/5abe56eb6a073.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
