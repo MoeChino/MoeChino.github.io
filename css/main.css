@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ba36ff;
+  background: #0ae5b3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2938,6 +2938,13 @@ ul.breadcrumb li+li:last-child {
   .post-body {
     text-align: justify;
   }
+}
+body {
+  background: url("/images/MoeChino.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 body {
   background: url("/images/MoeChino.png");
