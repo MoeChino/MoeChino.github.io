@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c8d511;
+  background: #33d0ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2941,23 +2941,8 @@ ul.breadcrumb li+li:last-child {
 }
 body {
   background: url("https://i.loli.net/2018/03/30/5abe56eb6a073.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
-  -webkit-background-size: 1920px 1080px;
-}
-.main-inner {
-  margin-top: 60px;
-  padding: 60px 60px 60px 60px;
-  background: #fff;
-  min-height: 500px;
-}
-body:before {
-  content: ' ';
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background: url("https://i.loli.net/2018/03/30/5abe56eb6a073.jpg");
-  background-size: 1920px 1080px;
-  z-index: -1;
+  background-position: center;
 }
