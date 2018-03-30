@@ -438,9 +438,6 @@ html,
 body {
   height: 100%;
 }
-body {
-  background: url '/images/MoeChino.png';
-}
 .container {
   position: relative;
   min-height: 100%;
@@ -1825,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #42bfff;
+  background: #b853f2;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2941,4 +2938,11 @@ ul.breadcrumb li+li:last-child {
   .post-body {
     text-align: justify;
   }
+}
+body {
+  background: url("/images/MoeChino.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
